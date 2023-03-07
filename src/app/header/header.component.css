@@ -1,0 +1,22 @@
+.header{
+    width:  100%;
+    background-color: rgb(1, 56, 38);
+    border-bottom: solid 10px #2d05f7;
+}
+.menu{
+    margin: opx;
+    padding: opx;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
+.logo{
+    height: 2rem;
+}
+.menu li{
+    font-weight: 600;
+    padding: 5px;
+    text-align: center;
+}
